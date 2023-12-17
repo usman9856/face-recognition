@@ -11,7 +11,7 @@ function App() {
   return (
  <Router>
   <Routes>
-  <Route exact path="/" element={<HomePage />} />
+  <Route exact path="/face-recognition" element={<HomePage />} />
   <Route exact path="/login" element={<Login />} />
   <Route exact path="/Singup" element={<Signup />} />
   <Route exact path="/Admin" element={<AdminPage />} />
