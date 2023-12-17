@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/usman9856/face-recognition/static/css/main.2c9f1df2.css",
-    "main.js": "/usman9856/face-recognition/static/js/main.ab97881d.js",
-    "static/js/787.1e55a4e1.chunk.js": "/usman9856/face-recognition/static/js/787.1e55a4e1.chunk.js",
-    "index.html": "/usman9856/face-recognition/index.html",
-    "main.2c9f1df2.css.map": "/usman9856/face-recognition/static/css/main.2c9f1df2.css.map",
-    "main.ab97881d.js.map": "/usman9856/face-recognition/static/js/main.ab97881d.js.map",
-    "787.1e55a4e1.chunk.js.map": "/usman9856/face-recognition/static/js/787.1e55a4e1.chunk.js.map"
+    "main.css": "/face-recognition/static/css/main.2c9f1df2.css",
+    "main.js": "/face-recognition/static/js/main.ce6da312.js",
+    "static/js/787.1e55a4e1.chunk.js": "/face-recognition/static/js/787.1e55a4e1.chunk.js",
+    "index.html": "/face-recognition/index.html",
+    "main.2c9f1df2.css.map": "/face-recognition/static/css/main.2c9f1df2.css.map",
+    "main.ce6da312.js.map": "/face-recognition/static/js/main.ce6da312.js.map",
+    "787.1e55a4e1.chunk.js.map": "/face-recognition/static/js/787.1e55a4e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c9f1df2.css",
-    "static/js/main.ab97881d.js"
+    "static/js/main.ce6da312.js"
   ]
 }
