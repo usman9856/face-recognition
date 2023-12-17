@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usman9856/face-recognition/static/css/main.2c9f1df2.css",
+    "main.js": "/usman9856/face-recognition/static/js/main.ab97881d.js",
+    "static/js/787.1e55a4e1.chunk.js": "/usman9856/face-recognition/static/js/787.1e55a4e1.chunk.js",
+    "index.html": "/usman9856/face-recognition/index.html",
+    "main.2c9f1df2.css.map": "/usman9856/face-recognition/static/css/main.2c9f1df2.css.map",
+    "main.ab97881d.js.map": "/usman9856/face-recognition/static/js/main.ab97881d.js.map",
+    "787.1e55a4e1.chunk.js.map": "/usman9856/face-recognition/static/js/787.1e55a4e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9f1df2.css",
+    "static/js/main.ab97881d.js"
+  ]
+}
